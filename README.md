@@ -17,7 +17,7 @@ Simply download the rankings as a CSV file by pressing on the download icon.
 *Sample file provided for Fantasy Pros CSV named fantasy_pros.csv <br /> <br />
 ###Fantasy Football Dynasty Helper
 Place the files in the folder with the python files. <br />
-Run the program using the command '''python main.py''' and select the files.
+Run the program using the command `python main.py` and select the files.
 ![](https://github.com/connorlicht/Fantasy-Football-Dynasty-Helper/assets/111907619/22e1197f-0d19-402a-8f38-0e461f8e2100) <br /> <br />
 Use the sort and group selections to first run a sort on the file and then group the players. Ex. Sort by Rank and Group by Age
 
