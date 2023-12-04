@@ -107,7 +107,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Fantasy Football Dynasty Helper"))
         self.label_league.setText(_translate("MainWindow", "League CSV File"))
         self.label_pro.setText(_translate("MainWindow", "Fantasy Pros Dynasty Rankings CSV File"))
         self.button_enter.setText(_translate("MainWindow", "ENTER"))
