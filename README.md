@@ -14,4 +14,7 @@ You click on view leagues, select your league, select data, and choose roster as
 The other file is obtained from https://www.fantasypros.com/nfl/rankings/dynasty-overall.php <br />
 Simply download the rankings as a CSV file by pressing on the download icon.
 ![](https://github.com/connorlicht/Fantasy-Football-Dynasty-Helper/assets/111907619/afc40cca-8116-40ab-99e1-471a6d5bb2b6)
+<br /> <br />
 
+Place the files in the folder with the python files. <br />
+Run the program and select the files. <br />
