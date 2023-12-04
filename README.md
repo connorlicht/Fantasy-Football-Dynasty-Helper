@@ -9,11 +9,13 @@ It is written in Python and uses PYQT6 for user interface <br />
 The first file is a league roster file that can be obtained at https://fhelper.azurewebsites.net <br />
 You click on view leagues, select your league, select data, and choose roster as type and CSV as file type. 
 ![](https://github.com/connorlicht/Fantasy-Football-Dynasty-Helper/assets/111907619/137bff0c-8ba3-4195-a120-44de6997f31c)
+*Sample files provided for League CSV named roster_file1.csv and roster_file2.csv
 <br /> <br />
 
 The other file is obtained from https://www.fantasypros.com/nfl/rankings/dynasty-overall.php <br />
 Simply download the rankings as a CSV file by pressing on the download icon.
 ![](https://github.com/connorlicht/Fantasy-Football-Dynasty-Helper/assets/111907619/afc40cca-8116-40ab-99e1-471a6d5bb2b6)
+*Sample file provided for Fantasy Pros CSV named fantasy_pros.csv
 <br /> <br />
 
 Place the files in the folder with the python files. <br />
