@@ -25,3 +25,5 @@ Run the program using the command `python main.py` and select the files. <br />
 Use the sort and group selections to first run a sort on the file and then group the players. <br />
 Ex. (Sort by Rank and Group by Age)
 
+[!IMPORTANT]
+PYQT6 must be installed. Install by running the command `pip install pyqt6`.
