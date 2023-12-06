@@ -2,7 +2,8 @@
 Helper for Fantasy Football Dynasty Leagues <br />
 Created for Computer Science II by Connor Licht for the second final project <br />
 Written in Python and uses PYQT6 for user interface <br />
-![Image of the Program that takes in two CSV files and organizes team and player data for the league.](https://raw.githubusercontent.com/connorlicht/Fantasy-Football-Dynasty-Helper/main/Screenshot%20(46).png)
+![Image of the Program that takes in two CSV files and organizes team and player data for the league.](https://github.com/connorlicht/Fantasy-Football-Dynasty-Helper/assets/111907619/e66e2bc4-a651-4d2c-9561-c955466e1503)
+
 
 ## How to use
 
