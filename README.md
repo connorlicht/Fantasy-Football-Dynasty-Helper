@@ -23,7 +23,7 @@ Place the files in the folder with the python files. <br />
 Run the program using the command `python main.py` and select the files. <br />
 ![](https://github.com/connorlicht/Fantasy-Football-Dynasty-Helper/assets/111907619/22e1197f-0d19-402a-8f38-0e461f8e2100) <br /> <br />
 Use the sort and group selections to first run a sort on the file and then group the players. <br />
-Ex. (Sort by Rank and Group by Age)
+Ex. (Sort by Rank and Group by Age) <br />
 
-[!IMPORTANT]
+> [!IMPORTANT]
 PYQT6 must be installed. Install by running the command `pip install pyqt6`.
